@@ -1,29 +1,71 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Paris Saclay University (UVSQ) - Master 2
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: The DataScale course focuses on the study and mastery of new data management architectures in a digital world. Web, Cloud and IoT.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sep. 2017 - Jun. 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Student
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
 
 - name:
-    detail: Company B
+    detail: AsIWed Startup
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: AsIWed is a carpooling Startup based in Algeria that allows people to offer trips and travel across cities easily.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Sep. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: CTO & Co-founder
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-lightbulb-o
+
+- name:
+    detail: Internship at 187 agency
+    i18n: company_b
+  desc:
+    detail: I worked in projects developing Hybrid Mobile Apps using Ionic2/Cordova Framework & Angular2
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2017 - Aug. 2017
+    i18n: company_b_date
+  job:
+    detail: Mobile & Web Developer
+    i18n: company_b_job
+  icon: fa-code
+
+- name:
+    detail: Paris Saclay University (UVSQ) - Master 1
+    i18n: company_a
+  desc:
+    detail: I had a general course content in Master 1 from Cyber Security to Data Science & Software Engineering.
+    i18n: company_a_desc
+  date:
+    detail: Sep. 2016 - Jun. 2017
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: company_a_job
+  icon: fa-book
+
+- name:
+    detail: Abdelhamid Mehri Constantine 2 University
+    i18n: company_b
+  desc:
+    detail: I graduated from CS department with a Bachelor's degree in Information Technology (IT)
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2013 - Jun. 2016
+    i18n: company_b_date
+  job:
+    detail: Student
+    i18n: company_b_job
+  icon: fa-graduation-cap

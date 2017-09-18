@@ -1,22 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: IlyBot
+  i18n: ilyes
+  gh_user: ilyeSudo
+  repo: ChatBot_nodeJS_TER_Projet
+  img: /static/assets/img/landing/IlyBot.jpg
+  desc: ChatBot built with NodeJS and Messanger Platform API in a Microservices Architecture designed to help new UVSQ' CS students to explore and to know more about their classes and courses.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: MaPharmConsDZ
+  i18n: ilyes
+  gh_user: ilyeSudo
+  repo: MaPharmConsDZ
+  img: /static/assets/img/landing/MaPharmConsDZ_2.png
+  desc: an Android app that allows Pharmacists to add their pharmacies and helps users to search for medicines, get help in emergency situations, and much more features.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Encryotor
+  i18n: ilyes
+  gh_user: ilyeSudo
+  repo: Encryption_machine
+  img: /static/assets/img/landing/Encryption_machine.png
+  desc: a Desktop Application that applies DES & RSA algotithms to Encryption/Decrypt plain texts.
