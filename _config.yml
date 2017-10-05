@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: houdjedje.ilyes16  # Leave blank if you don't have now
   twitter_username: HoudjedjeI  # Leave blank if you don't have now
   email: houdjedje.ilyes@gmail.com  # Leave blank if you don't have now
-  cv: https://drive.google.com/file/d/0B7hzSdAUtDKCNWdoSEY2UWFTZ1k/view?usp=sharing  # A online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/open?id=0B7hzSdAUtDKCQjc5MExYWlpiRWc  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-github
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-code
     - name: fa-coffee
-    
+
   desc: Ex- Web & Mobile developer. Actually a Data Science enthusiast, in love with Coding! a bloody passionate about Tech and StartUp world!  # Describe yourself.
 
 # comment

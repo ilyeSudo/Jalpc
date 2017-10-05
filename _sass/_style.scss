@@ -2503,11 +2503,11 @@ body {
     height: 470px;
     width: 100%;
     &.one {
-      background: url(../assets/img/landing/header_one.jpeg) 0 0 no-repeat;
+      background: url(../assets/img/landing/header_one.png) no-repeat;
       background-size: cover !important;
     }
     &.two {
-      background: url(../assets/img/landing/header_two.jpeg) no-repeat;
+      background: url(../assets/img/landing/header_two.png) no-repeat;
       background-size: cover !important;
     }
   }
