@@ -9,4 +9,4 @@ tags: [TEST,FIRST_BLOG]
 icon: icon-html
 ---
 
-This is just a small test blog post. Hope we'll have a happy blog time!😊
+This is just a small test blog post. Hope we'll have a happy blogging time!😊
