@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: AsIWed
   i18n: ilyes
-  url: https://asiwed.com/
+  url: https://www.asiwed.com/
   img: /static/assets/img/landing/asiwed.jpg
   desc: AsIWed connects drivers and passengers willing to travel together between cities in Algeria and share the cost of the journey.
 
@@ -18,7 +18,7 @@
   i18n: ilyes
   gh_user: ilyeSudo
   repo: MaPharmConsDZ
-  img: /static/assets/img/landing/MaPharmConsDZ.png
+  img: /static/assets/img/landing/MaPharmConsDZ.jpg
   desc: an Android app that allows Pharmacists to add their pharmacies and helps users to search for medicines, get help in emergency situations, and much more features.
 
 - name: Encryotor
