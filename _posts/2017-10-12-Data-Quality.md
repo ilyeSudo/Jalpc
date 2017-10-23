@@ -77,6 +77,8 @@ Here's a simple from the datasets :
 
 {% include image.html url="static/assets/img/blog/2017-10-12-Data-Quality/blog_post_1_pic2.png" description="Figure3. Rail stations of all types, whether or not operated." %}
 
+{% include image.html url="assets/img/blog/2017-10-12-Data-Quality/blog_post_1_pic2.png" description="Figure3. Rail stations of all types, whether or not operated. assets" %}
+
 ## Identifying problems
 For a very simple case, say that we have this dataset in one data form (Relational Tables) and we want to join them in this way (*not using the right syntax*)
 
