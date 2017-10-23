@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: NodeJS (Express), Motivation, HTML5/CSS3/JS, PHP (Symphony), Ionic/Cordova, MongoDB, Python, Java, Sleeping, AngularJS
-percentage: 80, 99, 80, 35, 90, 70, 75, 80, 20, 70
+aspects: HTML5/CSS3/JS, NodeJS (Express), PHP (Symphony), AngularJS, MongoDB, Ionic2/Cordova, Android, Hadoop, MapReduce, Pig, Hive, ETL, SQL, Java, Python
+percentage: 80, 80, 70, 80, 70, 90, 80, 75, 70, 75, 70, 80, 75, 75, 80
